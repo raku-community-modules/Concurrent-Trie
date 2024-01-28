@@ -1,15 +1,28 @@
 {
-    "perl"          : "6.*",
-    "name"          : "Concurrent::Trie",
-    "version"       : "1.1",
-    "description"   : "A lock-free concurrent trie (Text Retrieval) data structure.",
-    "authors"       : [ "Jonathan Worthington <jnthn@jnthn.net>" ],
-    "license"       : "Artistic-2.0",
-    "depends"       : [ ],
-    "provides"      : {
-        "Concurrent::Trie": "lib/Concurrent/Trie.pm6"
-    },
-    "resources": [],
-    "tags": ["trie", "text", "concurrent"],
-    "source-url"    : "https://github.com/jnthn/p6-concurrent-trie.git"
+  "auth": "zef:raku-community-modules",
+  "authors": [
+    "Jonathan Worthington <jnthn@jnthn.net>"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A lock-free concurrent trie (Text Retrieval) data structure",
+  "license": "Artistic-2.0",
+  "name": "Concurrent::Trie",
+  "perl": "6.*",
+  "provides": {
+    "Concurrent::Trie": "lib/Concurrent/Trie.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/raku-community-modules/Concurrent-Trie.git",
+  "tags": [
+    "trie",
+    "text",
+    "concurrent"
+  ],
+  "test-depends": [
+  ],
+  "version": "1.1"
 }
