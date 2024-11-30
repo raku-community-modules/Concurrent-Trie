@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/lizmat/Concurrent-Trie/actions/workflows/test.yml/badge.svg)](https://github.com/lizmat/Concurrent-Trie/actions)
+[![Actions Status](https://github.com/raku-community-modules/Concurrent-Trie/actions/workflows/linux.yml/badge.svg)](https://github.com/raku-community-modules/Concurrent-Trie/actions) [![Actions Status](https://github.com/raku-community-modules/Concurrent-Trie/actions/workflows/macos.yml/badge.svg)](https://github.com/raku-community-modules/Concurrent-Trie/actions) [![Actions Status](https://github.com/raku-community-modules/Concurrent-Trie/actions/workflows/windows.yml/badge.svg)](https://github.com/raku-community-modules/Concurrent-Trie/actions)
 
 NAME
 ====

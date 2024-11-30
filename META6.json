@@ -1,7 +1,7 @@
 {
   "auth": "zef:raku-community-modules",
   "authors": [
-    "Jonathan Worthington <jnthn@jnthn.net>"
+    "Jonathan Worthington"
   ],
   "build-depends": [
   ],
